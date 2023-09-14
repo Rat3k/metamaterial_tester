@@ -1,1 +1,1 @@
-//This is a placeholder for the main project.
+//This is a placeholder for the main project render file.
